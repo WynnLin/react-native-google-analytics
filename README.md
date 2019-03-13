@@ -1,10 +1,10 @@
-# react-native-google-analytics [![npm version](https://badge.fury.io/js/react-native-google-analytics.svg)](http://badge.fury.io/js/react-native-google-analytics)
+# club-react-native-google-analytics
 
 Google Analytics for React Native!
 
 ## Getting started
 
-1. `npm install react-native-google-analytics@latest --save`
+1. `npm install club-react-native-google-analytics@latest --save`
 
 ## Usage
 
