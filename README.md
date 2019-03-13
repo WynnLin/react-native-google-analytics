@@ -35,7 +35,7 @@ export default class App extends React.Component {
 
   componentWillMount() {
     let clientId = DeviceInfo.getUniqueID();
-    ga = new Analytics('UA-XXXXXXXX-X', clientId, 1, DeviceInfo.getUserAgent());
+    ga = new Analytics('UA-XXXXXXXX-X', clientId, 1, DeviceInfo.getUserAgent(), extra = {});
     let screenView = new GAHits.ScreenView(
       'Example App',
       'Welcome Screen',

@@ -1,13 +1,13 @@
 {
-  "name": "react-native-google-analytics",
+  "name": "club-react-native-google-analytics",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lwansbrough/react-native-google-analytics.git"
+    "url": "https://github.com/WynnLin/react-native-google-analytics.git"
   },
-  "version": "1.4.0",
+  "version": "1.0.0",
   "description": "Google Analytics for React Native",
   "main": "index.js",
-  "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
+  "author": "Wynn Lin",
   "keywords": [
     "react",
     "native",
