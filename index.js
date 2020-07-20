@@ -8,6 +8,7 @@ import Transaction from './lib/hits/Transaction';
 import Item from './lib/hits/Item';
 import AddImpression from './lib/hits/Ecommerce/AddImpression';
 import AddProduct from './lib/hits/Ecommerce/AddProduct'
+import AddItem from './lib/hits/Ecommerce/AddItem'
 import SetAction from './lib/hits/Ecommerce/SetAction'
 import _Analytics from './lib/Analytics';
 import _Experiment from './lib/Experiment';
@@ -26,6 +27,7 @@ export const Hits = {
 export const EcommerceHits = {
   AddImpression,
   AddProduct,
+  AddItem,
   SetAction
 }
 
